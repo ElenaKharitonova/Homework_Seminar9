@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\bin\Debug\net6.0\Task001_EvenRec.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\bin\Debug\net6.0\Task001_EvenRec.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\bin\Debug\net6.0\Task001_EvenRec.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\bin\Debug\net6.0\Task001_EvenRec.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\bin\Debug\net6.0\Task001_EvenRec.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\refint\Task001_EvenRec.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\Task001_EvenRec.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar9\Task001_EvenRec\obj\Debug\net6.0\ref\Task001_EvenRec.dll
