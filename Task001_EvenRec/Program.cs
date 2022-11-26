@@ -10,16 +10,6 @@ int PromptInt(string message)
     return int.Parse(Console.ReadLine());
 }
 
-void PrintNumbersMN(int m, int n) 
-{     
-    if (n < m)     
-    {         
-        return;     
-    }     
-    Console.WriteLine(m);     
-    PrintNumbersMN(m + 1, n); 
-}  
-
 void Even (int m, int n)
 {   
     if (n < m)
